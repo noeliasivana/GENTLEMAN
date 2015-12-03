@@ -6,10 +6,7 @@
 	height: 100px;
 	background-color: black;
 }
-.contenedor{
-	width: 1000px;
-	margin: 0 auto;
-}
+
 .listas a :hover
 {
     color:red;
@@ -34,15 +31,8 @@
 	margin-left: 900px;
 	padding-top: 20px;
 }
-.more img, {
-	max-width: 80%;
-}
 .btn{
 	border-radius: 30%;
 	width: 100px;
 	height: 35px;
-}
-.pie-pagina{
-	width: 100%;
-	height: 300px;
 }
